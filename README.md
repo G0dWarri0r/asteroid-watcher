@@ -4,7 +4,7 @@ Browse the asteroids flying past Earth on any date, one at a time, and watch eac
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Site-orange?style=for-the-badge)]()
 
-![Screenshot](Screenshot.png)
+![Screenshot](docs/Screenshot.png)
 
 ## What it does
 
