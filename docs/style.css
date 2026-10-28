@@ -1,0 +1,24 @@
+.orbit {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    animation: spin linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.moon-orbit {animation-duration: 12s;}
+.asteroid-orbit {animation-duration: 8s;}
+
+.body {
+    position: absolute;
+    top: 0;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
