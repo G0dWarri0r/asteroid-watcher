@@ -2,9 +2,10 @@
 
 Browse the asteroids flying past Earth on any date, one at a time, and watch each one orbit on a live mini-map.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Site-orange?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Site-orange?style=for-the-badge)](https://g0dwarri0r.github.io/asteroid-watcher/
+)
 
-![Screenshot](screenshot.png)
+![Screenshot](docs/Screenshot.png)
 
 ## What it does
 
